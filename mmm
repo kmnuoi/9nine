@@ -1,1 +1,3 @@
 vmess://ws+tls:aba50dd4-5484-3b05-b14a-4661caf862d5-4@104.166.135.10:443/?host=ahdaeph8.com&path=/ws&allowInsecure=true&tlsServerName=ahdaeph8.com#US
+vmess://ws+tls:aba50dd4-5484-3b05-b14a-4661caf862d5-4@ahdaeph8.com:443/?host=ahdaeph8.com&path=/ws&allowInsecure=true&tlsServerName=ahdaeph8.com#US-1
+vmess://ws+tls:db5d1aa3-908b-44d1-be0a-4e6a8d4e4cda-0@us02.gogogoo.cyou:443/?host=us02.gogogoo.cyou&path=/go&allowInsecure=true&tlsServerName=us02.gogogoo.cyou#US-2
