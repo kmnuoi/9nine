@@ -1,7 +1,8 @@
-vmess://ws+tls:5ce411c8-da98-44f5-ac1b-3b32ccdd8ce7-64@80.251.208.30:22223/?path=/echo&allowInsecure=true#US
-vmess://ws+tls:5ce411c8-da98-44f5-ac1b-3b32ccdd8ce7-64@80.251.208.30:22223/?path=/echo&allowInsecure=true#US-1
-vmess://ws+tls:3ca3da44-d9e8-11ec-bbae-000017022008-64@app.ssfree.ru:443/?path=/getweather&allowInsecure=true#US-2
-vmess://ws+tls:9f58234c-355b-4065-ae21-d4a63099aba5-64@54.37.192.112:443/?host=54.37.192.112&path=/path/120208301422&allowInsecure=true&tlsServerName=54.37.192.112#US-3
-vmess://ws+tls:3ca3da44-d9e8-11ec-bbae-000017022008-64@app.ssfree.ru:443/?path=/getweather&allowInsecure=true#US-4
-vmess://ws+tls:4ac06183-feca-48f8-9f7d-3355bd950e2a-0@a34.v2.gay:443/?host=yzjd01-ublubeu.koyeb.app&allowInsecure=true&tlsServerName=yzjd01-ublubeu.koyeb.app#US-5
-vmess://ws+tls:aba50dd4-5484-3b05-b14a-4661caf862d5-4@104.166.135.10:443/?host=ahdaeph8.com&path=/ws&tlsServerName=ahdaeph8.com#US-6
+trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@fhcarm1.gaox.ml:443?flow=&security=tls&sni=fhcarm1.gaox.ml&type=tcp&host=&path=#美国
+trojan://f736834f-1fc8-4738-9884-9afe0eb0d818@jp2.trojan.tel:443?flow=&security=tls&sni=jp2.trojan.tel&type=tcp&host=&path=#东京
+trojan://63X7Dg58EII2qt6f@de-03.fireplay.io:443?flow=&security=tls&sni=de-03.fireplay.io&type=tcp&host=&path=#英国
+trojan://YrnU2nhCTrx7aPLU@de-02.fireplay.io:443?flow=&security=tls&sni=de-02.fireplay.io&type=tcp&host=&path=#英国
+trojan://acf34fb3-6fed-40c6-b6ab-b5bedf5827a2@jp04.vproxy.us:56565?flow=&security=tls&sni=jp04.vproxy.us&type=tcp&host=&path=#东京
+trojan://3RWFPCmWd4lYIMof@events.starspace.link:443?flow=&security=tls&sni=events.starspace.link&type=tcp&host=&path=#美国
+trojan://8UnS7eSMi8OFKfje@charge.starspace.link:443?flow=&security=tls&sni=charge.starspace.link&type=tcp&host=&path=#美国
+trojan://MnROfwtPYa@neteasy.ga:28931?flow=&security=tls&sni=neteasy.ga&type=tcp&host=&path=#澳大利亚
